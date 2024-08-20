@@ -94,3 +94,17 @@
 2024-08-19 08:42:48,882 [main] INFO CoverFoxInsurence - Validating presence of SortPlanDropdown
 2024-08-19 08:42:52,927 [main] INFO CoverFoxInsurence - Validating Banners
 2024-08-19 08:42:53,151 [main] INFO CoverFoxInsurence - Closing Browser
+2024-08-20 08:28:07,640 [main] INFO CoverFoxInsurence - opening Browser
+2024-08-20 08:28:16,273 [main] INFO CoverFoxInsurence - Click on MaleButton
+2024-08-20 08:28:18,337 [main] INFO CoverFoxInsurence - Click on NextButton
+2024-08-20 08:28:19,473 [main] WARN CoverFoxInsurence - Age Should be Between 18-90
+2024-08-20 08:28:19,473 [main] INFO CoverFoxInsurence - Selecting Age
+2024-08-20 08:28:19,520 [main] INFO CoverFoxInsurence - Click On NextButton
+2024-08-20 08:28:20,648 [main] WARN CoverFoxInsurence - Please Enter Valid PinCode
+2024-08-20 08:28:20,648 [main] INFO CoverFoxInsurence - Entering Pin code
+2024-08-20 08:28:20,733 [main] WARN CoverFoxInsurence - Please Enter Valid MobileNumber
+2024-08-20 08:28:20,733 [main] INFO CoverFoxInsurence - Entering MobileNumber
+2024-08-20 08:28:20,824 [main] INFO CoverFoxInsurence - Click On ContinueButton
+2024-08-20 08:28:25,888 [main] INFO CoverFoxInsurence - Validating presence of SortPlanDropdown
+2024-08-20 08:28:29,943 [main] INFO CoverFoxInsurence - Validating Banners
+2024-08-20 08:28:30,068 [main] INFO CoverFoxInsurence - Closing Browser
